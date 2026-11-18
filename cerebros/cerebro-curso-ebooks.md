@@ -4,3 +4,6 @@
 - Estructura: `CLAUDE.md` (entrada) · `cerebro/` (notas por tema, índice en `00-INDICE.md`) · `fuentes/transcripciones` (videos transcriptos con faster-whisper medium en la GPU) · `fuentes/documentos` (PDF/docx/txt extraídos) · `.claude/skills/` (7 skills) · `_scripts/` (extracción y transcripción).
 - Trampa ya pagada: faster-whisper en GPU necesitó `pip install nvidia-cublas-cu12 nvidia-cudnn-cu12` y agregar las carpetas `site-packages/nvidia/*/bin` con `os.add_dll_directory` (ya está en `_scripts/transcribir.py`).
 - Trampa: Bash de Git no abre archivos con emojis o tildes en el nombre (los del curso tienen); usar Python para esos.
+- Estado (2026-11-18): completo. 36/36 videos transcriptos, 9 notas en `cerebro/` (01 a 09 + índice), 7 skills (buscar-producto-ganador, ebook-premium-html, ebook-higgsfield, landing-producto-digital, creativos-estaticos-ia, guiones-y-hooks, analizar-metricas-meta).
+- Convención: al autor del curso se lo nombra "AF" (como firma el curso); no se sabe su género, no usar "el/la profe".
+- Huecos conocidos: falta la clase "Antes de lanzar la campaña de v…" (no está en la carpeta), la URL del bookmarklet FAL, el Excel "Base de tiendas" y el de palabras en portugués.
