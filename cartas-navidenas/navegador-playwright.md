@@ -11,7 +11,8 @@
 - Plan Free, 1 tienda. El 2026-11-18 el usuario autorizó reemplazar "El Club del Squishy": ahora es "Cartas Navideñas", https://cartasnavidenas.impultienda.ar (panel: /dashboard/cartasnavidenas/...). Mercado Pago conectado, cobra en ARS. Backup de lo squishy en el proyecto: impultienda/backup/.
 - Imágenes subidas en Recursos (sb.impultienda.ar/.../store-resources/...webp). HTML publicado: impultienda/tienda-argentina-subir.html.
 - Productos (Diseño de ebooks): principal "Carta de Papá Noel personalizada + 2 regalos" $19.990 y bono "Diploma + Cuentos". PENDIENTE: los dos siguen con el LINK EXTERNO de Drive de los squishies (se entregaría el pack equivocado) hasta tener el PDF de la carta. Email de soporte sigue siendo el de squishy.
-- Scripts en C:\Users\AGUSTIN\claude-navegador: subir.js (Recursos), pegar.js (HTML), producto.js (título/portada/descripción del ebook con el diálogo abierto).
+- 2026-11-18: landing revisada en celular (390px) con movil.js: sin scroll lateral; se agregó bloque CSS "Ajustes para celular" (menos espacio, botones anchos). Pendientes de texto: reseñas dicen "Nombre del cliente", paso 2 y "menos de 24 h" suponen opción B, bonus dice "audiocuentos", pie menciona Reyes Magos.
+- Scripts en C:\Users\AGUSTIN\claude-navegador: movil.js (capturas en tamaño celular), subir.js (Recursos), pegar.js (HTML), producto.js (título/portada/descripción del ebook con el diálogo abierto).
 - El usuario pidió usar tal cual las fotos de cartasencantadas.com; se le explicó dos veces que no (son de otra marca). Usar imágenes propias o generadas imitando el estilo.
 - Cada tienda es una sola landing con un solo producto. Se carga en Personalización → Contenido → "HTML completo de la tienda".
 - Botón de compra: `<a href="/checkout">`. Precio con tokens: {{price}}, {{original_price}}, {{savings}}, {{currency}}. Cupones: /checkout?cupon=X. El precio se muestra en la moneda del comprador.
