@@ -23,3 +23,4 @@
 - Los HTML listos para pegar están en el proyecto, en impultienda/tienda-argentina.html y impultienda/tienda-ingles.html.
 - 2026-11-18: Recursos está en /dashboard/cartasnavidenas/personalizacion/diseno/recursos (la URL /recursos sola no carga). Después de pegar el HTML, la tienda pública tarda unos 30 s en mostrar el cambio.
 - Sello de garantía: Openclipart 346882 (dominio público), traducido al español → imagenes/garantia-es.svg/.png, subido a Recursos.
+- 2026-11-18: fotos de Gemini cargadas en la landing (hero/oferta, Reyes, diploma, y bloque .fotos-familia bajo "Con la carta mágica"). Gemini NO respeta la carta adjunta (inventa "Carta de Santa" con texto falso): se pega la página real encima con perspectiva usando imagenes/gemini/componer.py + claude-navegador/llenar.js (rellena nombre y lista a mano). Prompts en imagenes/prompts-gemini.md. Pendiente: foto del diploma (g6) muestra un diploma rojo que no es el nuestro.
