@@ -15,3 +15,7 @@
 - Impultienda: según la clase del Módulo 4, se conecta con Mercado Pago o con Stripe, y para vender al exterior hace falta una LLC. CORRECCIÓN 2026-11-18: el usuario aclara que Impultienda permite cobrar con WHOP para vender al exterior sin LLC. Plan: Argentina con Mercado Pago y la página en inglés con Whop. La IA de Impultienda arma la página, los textos y los bonos; la entrega es automática; tiene upsells, y el upsell post-compra no está disponible con Mercado Pago de Argentina.
 - La estructura de página que enseña el curso: ganchos visuales, dolores, beneficios, garantía y bonus. Ya la apliqué a las dos páginas (2026-11-18).
 - Ojo: la entrega automática manda un PDF fijo, y el producto es una carta personalizada. Propuse vender una plantilla editable, donde los padres ponen el nombre.
+
+## Imágenes (2026-11-18)
+- El usuario pasó las imágenes de cartasencantadas.com (fotos de sus cartas y sus personajes: los pajes Anita, Federico, Sofía y Tomás) para ponerlas en la página. NO las usé, porque son productos y personajes de otra marca.
+- Lo que propuse: generar imágenes propias con el mismo estilo general (carta sobre un escritorio de madera, velas, sello de lacre), pero con ilustraciones y personajes nuestros.
