@@ -20,3 +20,8 @@
 - El usuario pasó las imágenes de cartasencantadas.com (fotos de sus cartas y sus personajes: los pajes Anita, Federico, Sofía y Tomás) para ponerlas en la página. NO las usé, porque son productos y personajes de otra marca.
 - Lo que propuse: generar imágenes propias con el mismo estilo general (carta sobre un escritorio de madera, velas, sello de lacre), pero con ilustraciones y personajes nuestros.
 - 2026-11-18: hice imágenes propias con HTML renderizado en Edge (sin IA): la carta y el sobre sobre madera, el diploma, la portada de los cuentos y anuncios de 1080x1080 y 1080x1920, en ES y EN. Están en el proyecto, en imagenes/. Ya están puestas en impultienda/*.html con rutas ../imagenes/; al subirlas a Impultienda (Recursos) hay que cambiar esas rutas por las URL que dé Impultienda. Pendiente: el bonus "Foto mágica" es un trabajo manual y choca con la entrega automática.
+
+## Precios y PDF (2026-11-18)
+- Papá Noel y Reyes Magos salen AR$ 19.990 cada una (Reyes = upsell en el checkout). En la página, el precio de los Reyes está escrito a mano porque {{price}} solo trae el del producto principal.
+- Saqué {{original_price}} (mostraba "AR$ 0" tachado: el producto no tiene precio anterior) y el cartel "50% OFF" lo cambié por "Precio especial de Navidad". Para volver a poner 50% OFF hay que cargar en Impultienda un precio anterior real.
+- PDF en entregables/: pack-papa-noel.pdf, pack-reyes-magos.pdf, regalos-diploma-cuentos.pdf. Todos en español; la tienda en inglés todavía no tiene PDF.
