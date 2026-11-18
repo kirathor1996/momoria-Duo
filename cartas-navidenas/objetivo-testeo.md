@@ -12,6 +12,6 @@
 - La página en inglés no tiene Reyes Magos: tiene Santa, Elf y el combo de hermanos. Las capturas están en captura-ar.png y captura-en.png.
 
 ## Cerebro "Capitan America" (curso del usuario), 2026-11-18
-- Impultienda: según la clase del Módulo 4, se conecta con Mercado Pago o con Stripe, y para vender al exterior hace falta una LLC. Esto contradice lo que cree el usuario (que con Impultienda no la necesita): se lo avisé. La IA de Impultienda arma la página, los textos y los bonos; la entrega es automática; tiene upsells, y el upsell post-compra no está disponible con Mercado Pago de Argentina.
+- Impultienda: según la clase del Módulo 4, se conecta con Mercado Pago o con Stripe, y para vender al exterior hace falta una LLC. CORRECCIÓN 2026-11-18: el usuario aclara que Impultienda permite cobrar con WHOP para vender al exterior sin LLC. Plan: Argentina con Mercado Pago y la página en inglés con Whop. La IA de Impultienda arma la página, los textos y los bonos; la entrega es automática; tiene upsells, y el upsell post-compra no está disponible con Mercado Pago de Argentina.
 - La estructura de página que enseña el curso: ganchos visuales, dolores, beneficios, garantía y bonus. Ya la apliqué a las dos páginas (2026-11-18).
 - Ojo: la entrega automática manda un PDF fijo, y el producto es una carta personalizada. Propuse vender una plantilla editable, donde los padres ponen el nombre.
