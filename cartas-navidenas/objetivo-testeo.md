@@ -23,5 +23,6 @@
 
 ## Precios y PDF (2026-11-18)
 - Papá Noel y Reyes Magos salen AR$ 19.990 cada una (Reyes = upsell en el checkout). En la página, el precio de los Reyes está escrito a mano porque {{price}} solo trae el del producto principal.
-- Saqué {{original_price}} (mostraba "AR$ 0" tachado: el producto no tiene precio anterior) y el cartel "50% OFF" lo cambié por "Precio especial de Navidad". Para volver a poner 50% OFF hay que cargar en Impultienda un precio anterior real.
+- Precio tachado AR$ 29.990 (lo eligió el usuario el 2026-11-18), escrito a mano en el HTML porque {{original_price}} mostraba "AR$ 0". Los carteles dicen "33% OFF".
+- Sección "¿Qué recibís exactamente?" (#contenido): mosaicos con las páginas reales de los PDF (imagenes/contenido-*.jpg, armados con PIL desde Temp/capcartas/pdf/prev) y la lista de las cartas y los cuentos.
 - PDF en entregables/: pack-papa-noel.pdf, pack-reyes-magos.pdf, regalos-diploma-cuentos.pdf. Todos en español; la tienda en inglés todavía no tiene PDF.
