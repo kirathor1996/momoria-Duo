@@ -20,3 +20,5 @@
 - Cada tienda es una sola landing con un solo producto. Se carga en Personalización → Contenido → "HTML completo de la tienda".
 - Botón de compra: `<a href="/checkout">`. Precio con tokens: {{price}}, {{original_price}}, {{savings}}, {{currency}}. Cupones: /checkout?cupon=X. El precio se muestra en la moneda del comprador.
 - Los HTML listos para pegar están en el proyecto, en impultienda/tienda-argentina.html y impultienda/tienda-ingles.html.
+- 2026-11-18: Recursos está en /dashboard/cartasnavidenas/personalizacion/diseno/recursos (la URL /recursos sola no carga). Después de pegar el HTML, la tienda pública tarda unos 30 s en mostrar el cambio.
+- Sello de garantía: Openclipart 346882 (dominio público), traducido al español → imagenes/garantia-es.svg/.png, subido a Recursos.
