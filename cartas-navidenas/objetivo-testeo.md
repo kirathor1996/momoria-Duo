@@ -19,3 +19,4 @@
 ## Imágenes (2026-11-18)
 - El usuario pasó las imágenes de cartasencantadas.com (fotos de sus cartas y sus personajes: los pajes Anita, Federico, Sofía y Tomás) para ponerlas en la página. NO las usé, porque son productos y personajes de otra marca.
 - Lo que propuse: generar imágenes propias con el mismo estilo general (carta sobre un escritorio de madera, velas, sello de lacre), pero con ilustraciones y personajes nuestros.
+- 2026-11-18: hice imágenes propias con HTML renderizado en Edge (sin IA): la carta y el sobre sobre madera, el diploma, la portada de los cuentos y anuncios de 1080x1080 y 1080x1920, en ES y EN. Están en el proyecto, en imagenes/. Ya están puestas en impultienda/*.html con rutas ../imagenes/; al subirlas a Impultienda (Recursos) hay que cambiar esas rutas por las URL que dé Impultienda. Pendiente: el bonus "Foto mágica" es un trabajo manual y choca con la entrega automática.
