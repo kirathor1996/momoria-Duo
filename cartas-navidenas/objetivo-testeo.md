@@ -6,3 +6,7 @@
 - El usuario quiere que Claude cargue las campañas "como enseña Agu Frederick" (no sé cuál es ese método; pedirle sus notas). Quiere que Claude entre a Impul tienda y a Meta y cargue todo.
 - Al 2026-11-18 no hay herramientas de navegador ni de control de la PC activas en la sesión, así que Claude no puede entrar a esas cuentas. Hay que activar "Claude en Chrome" o "control del equipo" en Duo. Las contraseñas no se pasan por el chat: el usuario inicia sesión él mismo.
 - Idiomas, según lo que propuse: una página en español para LATAM y los latinos de EE.UU., una en inglés para EE.UU. y, si se quiere sumar Brasil, una en portugués. Cada página tiene su versión del producto en su idioma. No conviene la traducción automática, y la VPN no traduce nada: solo sirve para ver la página como la ve alguien de otro país.
+
+## Decisión 2026-11-18
+- Dos campañas y dos páginas: ARGENTINA (index.html, en español, en pesos, con Mercado Pago, solo digital) e INGLÉS (en/index.html, "Letters from Santa", en US$, para EE.UU., Reino Unido, Canadá y Australia, cobrando con el método de Impul tienda).
+- La página en inglés no tiene Reyes Magos: tiene Santa, Elf y el combo de hermanos. Las capturas están en captura-ar.png y captura-en.png.
