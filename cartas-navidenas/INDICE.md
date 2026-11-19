@@ -10,3 +10,4 @@ Ruta del proyecto: C:\Users\AGUSTIN\Desktop\Caras navideñas
 - ffmpeg.md — FFmpeg instalado para editar videos (ruta y aviso del PATH)
 - videos-ugc.md — videos UGC para anuncios: referencias, generador armar_ugc.py, estado
 - creativos-imagenes.md — creativos estáticos (imagen 1..16; tanda 2 = ugly ads), generador armar.py, decisiones
+- meta-ads.md — Meta Ads: cuenta Alba Store nueva, píxel, borrador campaña LATAM y pendientes
