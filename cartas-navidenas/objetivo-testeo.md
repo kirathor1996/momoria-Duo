@@ -29,3 +29,4 @@
 
 ## Estado de cobro (revisado 2026-11-19)
 - Configuración → Pagos: la tienda cobra en ARS solo con Mercado Pago ("Pagos locales · solo cuentas de Argentina"). NO está lista para LATAM. Opciones del panel: USD (Stripe/PayPal), Multidivisa (Stripe internacional + MP Argentina), dLocal Go (cobros locales LATAM), Whop (tarjeta en 80+ monedas). La página está en voseo y con precios AR$ escritos a mano. Falta que el usuario elija el procesador y lo conecte.
+- 2026-11-19: Whop en Impultienda = "Impul Pay" (menú Impul Pay, /dashboard/cartasnavidenas/impulpay). Se activa una vez por cuenta: el usuario acepta los términos de Whop y verifica su identidad él mismo; después se prende por tienda en Configuración → Pagos. Según el panel, Mercado Pago sigue para Argentina en pesos y Impul Pay cobra al exterior en la moneda del comprador. Pendiente: que el usuario lo active.
