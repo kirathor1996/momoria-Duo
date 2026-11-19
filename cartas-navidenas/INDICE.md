@@ -6,3 +6,4 @@ Ruta del proyecto: C:\Users\AGUSTIN\Desktop\Caras navideñas
 - landing-inicial.md — primera landing (ya reemplazada; la página actual es impultienda/tienda-unica.html, ver objetivo-testeo.md)
 - objetivo-testeo.md — plan de testeo, cobros y precios (estado actual: 1 tienda Multidivisa, US$ 19,90, Mercado Pago AR + Impul Pay exterior)
 - navegador-playwright.md — cómo controlar Chrome con Playwright (Impultienda, Meta, Mercado Pago)
+- tienda-ingles.md — 2.ª tienda Letters from Santa (EE.UU./UK/CA/AU): productos, PDFs en inglés, página, cobro
