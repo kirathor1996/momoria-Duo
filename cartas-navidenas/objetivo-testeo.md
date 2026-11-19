@@ -43,3 +43,4 @@
 - Probar otro país: /checkout?country=MX (o CO, etc.). Probado: AR → Mercado Pago AR$ 31.010; MX → Whop MX$ 372,64; CO → Whop CO$ 65.831,83 con Google Pay, tarjeta, Bancolombia, Bre-B.
 - Precios: Diseño de ebooks → "Precio, título y más" (modal div.fixed, no role=dialog); script claude-navegador/precio.js <idx> <precio> [original].
 - El tachado "Precio total" del checkout suma el valor del bono (AR$ 77.602): lo calcula Impultienda.
+- 2026-11-19: redes cargadas en el pie de tienda-unica.html y publicadas: Instagram https://www.instagram.com/cartasmagicas.oficial/ y Facebook https://www.facebook.com/share/1KFUGHJ7LB/ ; se quitó el ícono de TikTok (no tienen). Antes de pegar, comparar con claude-navegador/comparar.js (la diferencia de largo panel/archivo es solo CRLF).
