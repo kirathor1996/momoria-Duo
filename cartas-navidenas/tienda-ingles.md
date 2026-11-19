@@ -8,5 +8,5 @@
 - Página: impultienda/tienda-ingles-subir.html, generada por impultienda/fuente-en/armar_pagina_en.py (CSS/JS de tienda-unica.html + cuerpo-en.html). Se sube con claude-navegador/pegar-en.js.
 - Reseñas: las mismas 5 reales de la tienda en español, traducidas, con la aclaración "translated from Spanish" (pedido del usuario: mismas reseñas en inglés).
 - Fotos: rehechas con la carta en inglés (sobre "To: Emma") en entregables/fuente/prev-en/ (foto-santa-en, foto-manana-en, foto-cuentos-en). La foto del chico escribiendo (texto en español) y la de los Reyes no se usan.
-- Pendiente: pixel de Meta y email de soporte de esta tienda (no se copian).
+- Pendiente (revisado 2026-11-19): falta el pixel de Meta (campo vacío; propuse usar el mismo de la tienda ES, 2281492459348205). El email de soporte SÍ se copió (squishyclubbox). El título y la descripción SEO de Configuración → General quedaron en español, hay que pasarlos a inglés. La tienda ES tiene la descripción SEO en voseo ("recibís"). El "Diagnóstico de tienda" del panel no responde por script.
 - Ojo con los scripts que buscan la pestaña por URL ("/ebooks", "/recursos"): con 2 tiendas pueden agarrar la de la otra tienda. Verificar con `node nav.js tabs` antes.
