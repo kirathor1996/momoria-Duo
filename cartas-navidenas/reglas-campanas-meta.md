@@ -8,5 +8,5 @@
 - LATAM incluye Argentina (prioridad: es una de las primeras páginas que van a escalar).
 - Estructura: 1 conjunto por creativo. Se arma el primer conjunto con el primer creativo y después se duplica el conjunto completo tantas veces como creativos falten (5 creativos = original + 4 duplicados), cambiando el anuncio en cada uno.
 - Al duplicar conjuntos: SIEMPRE destildar "Aplicar recomendaciones" (música, video, valor de conversiones, Contenido Advantage+).
-- Creativos: si el usuario pasa una carpeta, usar los de esa carpeta, no elegir otros por cuenta propia. Excepción ya avisada: material con el producto/marca de otra empresa (cartasencantadas) no se sube; se avisa y se pide reemplazo, sin poner otros en su lugar.
+- Creativos: si el usuario pasa una carpeta, usar los de esa carpeta, no elegir otros por cuenta propia. (2026-11-19: el usuario confirmó que los de "creativosa para argentina" son propios.)
 - Mejoras/IA de Meta: todas apagadas (incluidas las "esenciales").
