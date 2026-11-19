@@ -8,3 +8,4 @@ Ruta del proyecto: C:\Users\AGUSTIN\Desktop\Caras navideñas
 - navegador-playwright.md — cómo controlar Chrome con Playwright (Impultienda, Meta, Mercado Pago)
 - tienda-ingles.md — 2.ª tienda Letters from Santa (EE.UU./UK/CA/AU): productos, PDFs en inglés, página, cobro
 - ffmpeg.md — FFmpeg instalado para editar videos (ruta y aviso del PATH)
+- videos-ugc.md — videos UGC para anuncios: referencias, generador armar_ugc.py, estado
