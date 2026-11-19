@@ -11,3 +11,4 @@ Ruta del proyecto: C:\Users\AGUSTIN\Desktop\Caras navideñas
 - videos-ugc.md — videos UGC para anuncios: referencias, generador armar_ugc.py, estado
 - creativos-imagenes.md — creativos estáticos (imagen 1..16; tanda 2 = ugly ads), generador armar.py, decisiones
 - meta-ads.md — Meta Ads: cuenta Alba Store nueva, píxel, borrador campaña LATAM y pendientes
+- reglas-campanas-meta.md — cómo quiere el usuario las campañas: US$ 7,33, inicio día siguiente 00:00, página, multianunciante off, Comprar, 1 conjunto por creativo
