@@ -26,3 +26,6 @@
 - Precio tachado AR$ 29.990 (lo eligió el usuario el 2026-11-18), escrito a mano en el HTML porque {{original_price}} mostraba "AR$ 0". Los carteles dicen "33% OFF".
 - Sección "¿Qué recibís exactamente?" (#contenido): mosaicos con las páginas reales de los PDF (imagenes/contenido-*.jpg, armados con PIL desde Temp/capcartas/pdf/prev) y la lista de las cartas y los cuentos.
 - PDF en entregables/: pack-papa-noel.pdf, pack-reyes-magos.pdf, regalos-diploma-cuentos.pdf. Todos en español; la tienda en inglés todavía no tiene PDF.
+
+## Estado de cobro (revisado 2026-11-19)
+- Configuración → Pagos: la tienda cobra en ARS solo con Mercado Pago ("Pagos locales · solo cuentas de Argentina"). NO está lista para LATAM. Opciones del panel: USD (Stripe/PayPal), Multidivisa (Stripe internacional + MP Argentina), dLocal Go (cobros locales LATAM), Whop (tarjeta en 80+ monedas). La página está en voseo y con precios AR$ escritos a mano. Falta que el usuario elija el procesador y lo conecte.
