@@ -38,9 +38,11 @@
 
 ## Tienda única Multidivisa (2026-11-19, ESTADO ACTUAL)
 - El usuario cambió de idea: UNA sola tienda para Argentina y LATAM, sin plan Starter. Tienda en modo Multidivisa; Impul Pay prendido para el exterior y Mercado Pago para Argentina.
-- Precios cargados en USD (decisión del usuario): principal US$ 19.90 (tachado 29.90), Reyes US$ 19.90, bono valor percibido US$ 19.90. Argentina ve la conversión en pesos: AR$ 31.010 (tachado 46.592), sube desde los AR$ 19.990 de antes; el usuario lo aceptó.
+- Precios cargados en USD (decisión del usuario): principal US$ 19.90 (tachado 29.90), Reyes US$ 19.90, bono valor percibido US$ 19.90. (Argentina: ver nota de Markets abajo, vuelve a AR$ 19.990.)
 - Página publicada: impultienda/tienda-unica.html (español neutro, sale de tienda-latam.html, precios con {{price}}/{{original_price}}, pagos: tarjeta, Mercado Pago en Argentina, Apple/Google Pay).
 - Probar otro país: /checkout?country=MX (o CO, etc.). Probado: AR → Mercado Pago AR$ 31.010; MX → Whop MX$ 372,64; CO → Whop CO$ 65.831,83 con Google Pay, tarjeta, Bancolombia, Bre-B.
 - Precios: Diseño de ebooks → "Precio, título y más" (modal div.fixed, no role=dialog); script claude-navegador/precio.js <idx> <precio> [original].
 - El tachado "Precio total" del checkout suma el valor del bono (AR$ 77.602): lo calcula Impultienda.
 - 2026-11-19: redes cargadas en el pie de tienda-unica.html y publicadas: Instagram https://www.instagram.com/cartasmagicas.oficial/ y Facebook https://www.facebook.com/share/1KFUGHJ7LB/ ; se quitó el ícono de TikTok (no tienen). Antes de pegar, comparar con claude-navegador/comparar.js (la diferencia de largo panel/archivo es solo CRLF).
+
+- 2026-11-19: el usuario quiere Argentina a AR$ 19.990 y EE.UU. a US$ 19,90. Se activó **Markets** (panel → Markets) en cartasnavidenas: market "Argentina" en ARS con precios fijos por ebook (Precio, título y más → "Precios por mercado"): principal AR$ 19.990 (tachado 29.990), Reyes AR$ 19.990, bono AR$ 19.990. Script: claude-navegador/mercado-precio.js <idx> <precio> [original]. Verificado con probar-precio.js: AR → AR$ 19.990; MX/CO/US → US$ 19.90. Efecto: con Markets activo, los países sin market pagan en USD (antes veían su moneda local). La tienda en inglés (lettersfromsanta) sigue en US$ 19.90.
