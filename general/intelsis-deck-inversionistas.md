@@ -9,3 +9,5 @@ Feedback dado (v. noviembre 2026), problemas principales:
 - Cuenta en la lámina 11 mal hecha: 437M/8 ≈ 55M, no "más de 60M".
 - Faltan: equipo, condiciones de la inversión y valuación, objetivos de compra con números, cifras de ingresos por suscripción de Predict AI, lámina de cierre.
 Si vuelve con una versión nueva, comparar contra esto.
+
+(2026-11-20) Se armó una presentación de feedback de 11 láminas con el mismo estilo visual que la original: entornos\general\intelsis-feedback\Feedback_Intelsis_Presentacion_Inversionistas.pptx (generada con build.js usando pptxgenjs). Para revisar cómo se ven las láminas se instaló LibreOffice en la PC.
