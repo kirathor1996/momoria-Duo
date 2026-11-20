@@ -9,4 +9,5 @@
 
 - 2026-11-19: adaptada a celular chico (320-412 px): la pantalla de juego entra sin scroll desde 360x640; en pantallas bajas los 4 botones van en una fila. Pruebas: 0 desbordes laterales en todas las pantallas.
 
-- 2026-11-20: el logo de la app es ahora el mismo '&' caligráfico de las cartas de los creativos (vectorizado desde 'Resultado 8.jpg' de la renovación; archivo app/logo.svg). En CSS va como máscara (--logo) en .logo-amp, .amp-wm, .back-amp, .card-logo; icon.svg también lo usa. Ya no se usa el '&' de la fuente Cormorant.
+- 2026-11-20: el logo de la app es el oficial de la carpeta Escritorio\Logo JDD (logo_v2_borgona.png), vectorizado. app/logo.svg = version oro. En CSS va como mascara (--logo) en .logo-amp, .amp-wm, .back-amp, .card-logo; icon.svg tambien. OJO: al cambiar proporciones con regex no tocar el aspect-ratio:5/7.2 de .card-wrap.
+
