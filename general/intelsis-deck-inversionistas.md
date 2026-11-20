@@ -11,3 +11,5 @@ Feedback dado (v. noviembre 2026), problemas principales:
 Si vuelve con una versión nueva, comparar contra esto.
 
 (2026-11-20) Se armó una presentación de feedback de 11 láminas con el mismo estilo visual que la original: entornos\general\intelsis-feedback\Feedback_Intelsis_Presentacion_Inversionistas.pptx (generada con build.js usando pptxgenjs). Para revisar cómo se ven las láminas se instaló LibreOffice en la PC.
+
+(2026-11-20) Se armó la versión corregida de 19 láminas con el mismo estilo: intelsis-feedback\Grupo_Intelsis_Presentacion_Inversionistas_CORREGIDA.pptx/.pdf (build_corregida.js; copia en el Escritorio). Los datos que faltan van como [COMPLETAR] en naranja: EBITDA, cifras sin IVA, equipo, GPartner/Kortech, condiciones, Predict AI y contacto.
