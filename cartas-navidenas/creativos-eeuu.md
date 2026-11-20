@@ -6,3 +6,4 @@
 - Sin precios en los creativos: la tienda en inglés cobra en 4 monedas.
 - Imagen 1: POV "your elf came back… REMEMBERED the cake". Imagen 2: "Day 3… wrecked the kitchen". Imagen 3: "Every December morning: Mom, what did the elf do NOW?!".
 - Imagen 4 (armar_eeuu4.py): historia con caja de preguntas "Ask us anything" y la respuesta "Yes! Here's the Santa one", hecha con NUESTRAS páginas del PDF santa-letters-en (con "Emma" escrito a mano). La foto que mandó el usuario mostraba la carta ilustrada con sobre de OTRA marca, así que no se usó. La pregunta es neutra (sin elogios) para que no parezca una reseña inventada.
+- Imagen 5 (armar_eeuu5.py, 1125x1280 como la original): foto cenital de mesa navideña de OTRA marca. Por pedido del usuario se mantuvo el fondo y la carta y el sobre se taparon con nuestras páginas (carta 1 con "Emma" + hoja de respuesta), con tono cálido. Se le avisó que el fondo es una foto ajena (riesgo de denuncia) y decidió usarla igual.
