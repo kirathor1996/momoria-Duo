@@ -11,3 +11,5 @@
 
 - 2026-11-20: el logo de la app es el oficial de la carpeta Escritorio\Logo JDD (logo_v2_borgona.png), vectorizado. app/logo.svg = version oro. En CSS va como mascara (--logo) en .logo-amp, .amp-wm, .back-amp, .card-logo; icon.svg tambien. OJO: al cambiar proporciones con regex no tocar el aspect-ratio:5/7.2 de .card-wrap.
 
+
+- 2026-11-20: acceso con código único (opción A elegida por el usuario). 5000 códigos DESEO-XXXX-XXXX en 'codigos app juego del deseo (NO SUBIR)'; la app guarda solo huellas cyrb53 en codes.js; link directo ?c=CODIGO activa solo. Generador: scripts/generar_codigos.mjs (conserva los viejos). Hosting elegido: Cloudflare Pages + subdominio propio (falta cuenta y dominio). Falta: conectar Shopify para mandar un código por compra (preguntar qué app usa para entregar PDFs).
