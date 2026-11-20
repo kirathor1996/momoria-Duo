@@ -10,6 +10,6 @@ Ruta del proyecto: C:\Users\AGUSTIN\Desktop\Caras navideñas
 - ffmpeg.md — FFmpeg instalado para editar videos (ruta y aviso del PATH)
 - videos-ugc.md — videos UGC para anuncios: referencias, generador armar_ugc.py, estado
 - creativos-imagenes.md — creativos estáticos (imagen 1..16; tanda 2 = ugly ads), generador armar.py, decisiones
-- meta-ads.md — Meta Ads: cuenta Alba Store nueva, píxel, campaña CARTAS LATAM (6 conjuntos) PUBLICADA el 19/11 para arrancar el 20/11, trampas al publicar; campaña LETTERS EEUU (5 conjuntos) en BORRADOR desde el 20/11, esperando OK
+- meta-ads.md — Meta Ads: cuenta Alba Store nueva, píxel, campaña CARTAS LATAM (6 conjuntos) PUBLICADA el 19/11 para arrancar el 20/11, trampas al publicar; campaña LETTERS EEUU (5 conjuntos) PUBLICADA el 20/11, arranca 21/11 04:00
 - reglas-campanas-meta.md — cómo quiere el usuario las campañas: US$ 7,33, inicio día siguiente 04:00, página, multianunciante off, Comprar, 1 conjunto por creativo
 - creativos-eeuu.md — creativos para EE.UU. hechos con fotos caseras del usuario (imagen 1..3, 1080x1920), generador armar_eeuu.py
