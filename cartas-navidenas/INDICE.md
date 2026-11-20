@@ -12,3 +12,4 @@ Ruta del proyecto: C:\Users\AGUSTIN\Desktop\Caras navideñas
 - creativos-imagenes.md — creativos estáticos (imagen 1..16; tanda 2 = ugly ads), generador armar.py, decisiones
 - meta-ads.md — Meta Ads: cuenta Alba Store nueva, píxel, campaña CARTAS LATAM (6 conjuntos) PUBLICADA el 19/11 para arrancar el 20/11, trampas al publicar
 - reglas-campanas-meta.md — cómo quiere el usuario las campañas: US$ 7,33, inicio día siguiente 00:00, página, multianunciante off, Comprar, 1 conjunto por creativo
+- creativos-eeuu.md — creativos para EE.UU. hechos con fotos caseras del usuario (imagen 1..3, 1080x1920), generador armar_eeuu.py
