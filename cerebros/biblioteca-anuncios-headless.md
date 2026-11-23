@@ -6,3 +6,5 @@
 - Scripts temporales en C:\Users\AGUSTIN\AppData\Local\Temp\adlib-scripts (scrape.mjs, agg.mjs).
 - Usar puertos 9444-9446, nunca 9333 (navegador de trabajo del usuario).
 - El usuario quiere rapidez: entregar 3 productos validados (activos +1 mes, escalados) sin tardar de más.
+- (2026-11-23) CRITERIO DEL USUARIO: "validado" = anunciante/página con MÁS DE 50 anuncios activos en la Biblioteca (además de +1 mes y sin comida/fitness). Verificar por nombre del anunciante (keyword_unordered) con 5 scrolls: da hasta ~100 tarjetas. agg3.mjs junta todos los .json viejos por anunciante; agg4.mjs resume tandas nuevas.
+- (2026-11-23) Con 50+ anuncios y sin comida/fitness salen muy pocos: Clever Poppy (US, bordado, 56), Photzy (US), Pack herrería (ES, 2 páginas: Marcos Vinicius 58 + Daniel Brooks 65), Praxis Studio (ES, 84), Clubinho Católico (BR, 87, físico). IT y FR con "ebook/guida/télécharger/méthode" devolvieron solo apps y corporativos: no vale la pena repetir. Manualidades (crochet, madera, guitarra) en US/MX/BR: nadie pasa de 40 anuncios.
