@@ -7,3 +7,4 @@
 - Sin tocar todavía: dirección (Av Corrientes 66), teléfono, mail elclubdelanocheoficial@gmail.com, horario "Siempre abierto", publicaciones/reels viejos del juego de misterio, Instagram vinculado.
 - Scripts en C:/Users/AGUSTIN/claude-navegador: fb.js, fbxy.js, fbtexto.js, fbsubir.js, fbportada.js, fbcat.js (FBTAB=last usa la última pestaña de facebook).
 - El navegador quedó actuando COMO la página (perfil cambiado); al terminar hay que volver al perfil personal.
+- (2026-11-23) El usuario ya puso la contraseña: la página se ve como "The Stoic Path" y el usuario es facebook.com/thestoicpath.books (ID 61591869039820). Enlace de la página cambiado a https://thestoicpath.impultienda.ar/.
