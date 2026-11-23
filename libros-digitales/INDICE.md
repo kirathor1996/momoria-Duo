@@ -4,4 +4,4 @@ Ruta del proyecto: C:\Users\AGUSTIN\AppData\Roaming\Duo\entornos\libros-digitale
 
 ## Notas
 - 2026-11-23-libros-estoicos-ingles.md — pack estoico en inglés: clásicos descargados, fuentes y qué falta crear
-- 2026-11-23-landing-estoica.md — landing en inglés del pack estoico: formato de Cartas Mágicas, archivos, qué falta
+- 2026-11-23-landing-estoica.md — landing EN del pack estoico con formato de mentisclassics (landing2/), sin garantía, cargada en la tienda lettersfromsanta (backup y pendientes)
