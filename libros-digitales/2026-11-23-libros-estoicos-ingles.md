@@ -3,4 +3,6 @@
 - Para regenerar: "_trabajo_pack_estoico\build.py" (python -I build.py [num]); fuentes HTML de 4-6 en _trabajo_pack_estoico\libros\. Usa Chrome headless --print-to-pdf (sin puerto de depuración).
 - EPUB originales en "Libros ingles dominio publico\" (Standard Ebooks, CC0).
 - TRAMPA: Project Gutenberg devuelve 503 a curl; usar standardebooks.org.
+- Tapas (2026-11-23): estilo blanco tipo competidor (comillas de color + título Oswald grande). Ilustraciones = grabados de dominio público de Wikimedia Commons procesados con _trabajo_pack_estoico/portadas/procesar.py; textos y colores de tapa en COVERS de build.py; build.py también exporta portadas/tapa-N.png. Higgsfield tenía 0,9 créditos (no alcanzó para generar).
+- Páginas: 151, 120, 67, 47, 48, 81 (514 en total).
 - Pendiente: el bonus (diario imprimible) no está hecho.
