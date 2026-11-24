@@ -6,7 +6,6 @@
 - Competencia directa en Alemania encontrada: lustspiel.shop (90 cartas, 4 niveles, físico, marca propia DTC),
   midara.de (cartas pareja 3 etapas, 29,99 €), yourlovechallenge-book.de (Wahrheit oder Pflicht Sex Edition).
 - Indirecta: Tease & Please, Kheper, EMF Verlag (Talk About Sex, Kommt gut), Let's Get Deep.
-- Pendiente: buscar versiones digitales en alemán (Digistore24/Copecart); casi no aparecen PDFs en alemán.
 - Comparación de páginas (2026-11-18): ninguna página alemana es copia ni usa la misma plantilla. La más parecida en estilo de venta
   es yourlovechallenge-book.de (precios tachados, bundles, regalo incluido, 170.000+ clientes). En producto, lustspiel.shop.
   PDF en alemán: erotigame.com (plantillas imprimibles, 3,50–15 €). Nadie en DE usa contador ni "X personas viendo".
