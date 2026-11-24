@@ -7,3 +7,9 @@ Biblioteca de Meta (country=ALL, activos) leída con Chrome headless en el puert
 - kit-para-adolescentes.impultienda.ar (kit para psicólogos, US$16): 31 anuncios propios desde el 09/11/2026, más otros 6 kits para terapeutas en Impultienda. VIGILAR (nicho caliente pero muy nuevo).
 - magiatienda.com/bonita (plantillas de packaging para joyería en Canva, Hotmart, USD 12): 19 anuncios. NO ARMAR.
 - escuelavegetariana.com (cursos en video de cocina vegana, marca personal de Alejandra Schvartz): ~37 anuncios desde dic 2025. NO ARMAR.
+
+## Inglés en Mapas a fondo (2026-11-24)
+- Atril pauta en MX (~81), CO (~79), ES (~100) y US (~81). En AR tiene 0 anuncios.
+- El formato "300 mapas mentales de inglés" ya lo venden muchos: Inglés en Mapas Visuales (desde 01/09, duplicados), Tus Clases Online (+100 videos), 300mapas.online (USD 9,99 con 6 bonus), OferteiHoje y Biblioteca Digital (por WhatsApp), Mapas Pro.
+- En AR, desde el 15/11 hay un clon casi idéntico de Atril (ingles-en-mapas.impultienda.ar, AR$ 19.999, mismos 4 bonus) y otro desde el 20/11 (idiomapa.impultienda.ar, AR$ 19.990, cero a intermedio).
+- Conclusión: la demanda está validada pero el formato genérico se está saturando. Entrar solo anichado y con audio.
