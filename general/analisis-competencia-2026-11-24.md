@@ -18,3 +18,8 @@ Biblioteca de Meta (country=ALL, activos) leída con Chrome headless en el puert
 - Carpeta: Escritorio\video para mapas de ingles: 102 videos de Atril, transcripciones, landing (1_), guiones de Atril desarmados (2_) y nuestros guiones UGC (3_).
 - Hallazgo: Atril usa un solo guion base con 25 ganchos distintos; los que más usa son "Mirá cómo repaso todo el inglés A1-C2" (32 videos) y "Si entendés inglés y después se te olvida" (24). No muestran a nadie a cámara ni tienen audio.
 - Plan acordado con el usuario: landing con la misma estructura y texto propio, creativos UGC (3 bases × 12 ganchos), test primero en AR y después MX.
+
+## Producto Inglés en Mapas armado (2026-11-24)
+- Carpeta: Escritorio\video para mapas de ingles\PRODUCTO_300_mapas (LEEME.md explica todo). 6 PDF (A1-C2, 300 mapas), 300 MP3 (edge-tts voces Jenny/Guy), contenido en JSON editable y scripts para regenerar.
+- Español neutro sin vos/tú (para AR, MX y ES). Marca provisoria INGLÉS ORDENADO (variable MARCA).
+- Pendiente: hosting de audios + QR por mapa, 4 bonus, revisión humana del contenido, testimonios.
