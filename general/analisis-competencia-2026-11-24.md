@@ -13,3 +13,8 @@ Biblioteca de Meta (country=ALL, activos) leída con Chrome headless en el puert
 - El formato "300 mapas mentales de inglés" ya lo venden muchos: Inglés en Mapas Visuales (desde 01/09, duplicados), Tus Clases Online (+100 videos), 300mapas.online (USD 9,99 con 6 bonus), OferteiHoje y Biblioteca Digital (por WhatsApp), Mapas Pro.
 - En AR, desde el 15/11 hay un clon casi idéntico de Atril (ingles-en-mapas.impultienda.ar, AR$ 19.999, mismos 4 bonus) y otro desde el 20/11 (idiomapa.impultienda.ar, AR$ 19.990, cero a intermedio).
 - Conclusión: la demanda está validada pero el formato genérico se está saturando. Entrar solo anichado y con audio.
+
+## Material armado (2026-11-24)
+- Carpeta: Escritorio\video para mapas de ingles: 102 videos de Atril, transcripciones, landing (1_), guiones de Atril desarmados (2_) y nuestros guiones UGC (3_).
+- Hallazgo: Atril usa un solo guion base con 25 ganchos distintos; los que más usa son "Mirá cómo repaso todo el inglés A1-C2" (32 videos) y "Si entendés inglés y después se te olvida" (24). No muestran a nadie a cámara ni tienen audio.
+- Plan acordado con el usuario: landing con la misma estructura y texto propio, creativos UGC (3 bases × 12 ganchos), test primero en AR y después MX.
