@@ -9,3 +9,4 @@
 - El usuario aclaró: es para gastos PERSONALES de la pareja (Agustina y Agustín), NO de la empresa. No mezclar con cuentas/herramientas de trabajo.
 - Se hizo `version-compartida/` (Codigo.gs + Index.html + COMO-INSTALAR.txt): Google Apps Script como aplicación web, datos en la pestaña "Gastos" de una Google Sheet de la cuenta personal. Columnas: id, Fecha (texto ISO), Descripción, Categoría, Monto, Quién. Así los dos ven lo mismo desde el celular.
 - La instalación la hace el usuario (necesita su login de Google). Para actualizar código: Gestionar implementaciones > Nueva versión (mantiene la URL).
+- (2026-11-24) INSTALADA: proyecto Apps Script "Gastos de la casa" en script.google.com (proyecto suelto, no dentro de una planilla; Codigo.gs crea sola la planilla "Gastos casa (datos)"). Versión 1 implementada como app web; la URL /exec la tiene el usuario. No le gusta nada que parezca Excel: quiere usarla como app del celular.
