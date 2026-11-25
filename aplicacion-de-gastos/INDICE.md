@@ -4,3 +4,4 @@ Ruta del proyecto: C:\Users\AGUSTIN\Desktop\Carpetas de escritorio\aplicacion de
 
 ## Notas
 - app-html-localstorage.md — cómo está hecha la app (index.html + localStorage), formato de datos y límites
+- deploy-con-clasp.md — cómo publico yo los cambios (clasp, IDs, carpeta deploy)
