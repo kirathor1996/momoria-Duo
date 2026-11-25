@@ -5,7 +5,7 @@ Ya aplicada en: marca de agua de los videos, pack, tapas y pie de cada mapa, y n
 Detalle técnico en Desktop/video para mapas de ingles/VIDEOS_NUESTROS/LEEME.md.
 
 ## Página de Facebook (2026-11-25)
-- Creada desde el Facebook de Agustina: https://www.facebook.com/profile.php?id=61596679392923 — categoría Educación, tipo Empresa, correo cargado maplish.ofical@gmail.com (SIN la i, mal: el real es maplish.oficial@gmail.com; pendiente corregir), con logo, portada y presentación.
+- Creada desde el Facebook de Agustina: https://www.facebook.com/profile.php?id=61596679392923 — categoría Educación, tipo Empresa, correo maplish.oficial@gmail.com (corregido 2026-11-25), con logo, portada y presentación.
 - WhatsApp no conectado e invitaciones a amigos no enviadas (a decidir por el usuario).
 - Logo/portada: Desktop/video para mapas de ingles/FACEBOOK_MAPLISH (crear_fb.py).
 - Navegador usado: Chrome visible en puerto 9445, perfil herramientas/chrome-maplish (sesión de Agustina). Helper CDP: herramientas/cdp/cdp.mjs (node). Subir archivos: Page.setInterceptFileChooserDialog + click + DOM.setFileInputFiles con ruta con barras "/" (con "\" falla).
@@ -20,3 +20,9 @@ Detalle técnico en Desktop/video para mapas de ingles/VIDEOS_NUESTROS/LEEME.md.
 - Producto subido al Drive de maplish.oficial@gmail.com (con "i"): carpeta "MAPLISH - 300 mapas de inglés (A1 a C2)" https://drive.google.com/drive/folders/1EW3obpSOkGHqfyqKA-_q1F5KNJ4-_dum (pública, lector). Subcarpetas "1 - Mapas en PDF" (6 PDF) y "2 - Audios" (16 zip). Este es el link para Impultienda.
 - La copia anterior (folders/1T_oohijEv6rjwP0j4heR_Y1p48bhjfSJ) quedó en el Drive personal del usuario: no usarla.
 - TRAMPA CDP: en el Chrome 9445 hay 2 pestañas de Drive (una es la carpeta compartida The Stoic Path). cdp.mjs elige la primera que matchea: usar un patrón de URL exacto.
+
+## Landing en Impultienda (2026-11-25)
+- La tienda thestoicpath.impultienda.ar ahora vende MAPLISH (el plan Starter permite 2 tiendas y están ocupadas: esta + Cartas Navideñas). Nombre "Maplish", idioma es-AR, mail soporte maplish.oficial@gmail.com, favicon M. Subdominio sigue "thestoicpath" (sin cambiar).
+- Producto principal: precio USD 11.90 / tachado 37.90 (Multidivisa → AR$ 18.946 / 60.338), link externo = Drive de maplish.oficial. Bonus estoico eliminado. Sin upsells.
+- HTML de la landing: Desktop/video para mapas de ingles/LANDING_MAPLISH/landing.html (con IMG/ placeholders) y landing_final.html (con URLs cdn.impultienda.ar). Imágenes subidas en Diseño > Recursos (prefijo maplish-). Backups del HTML estoico: BACKUP_tienda_stoic_path.html y _2.html.
+- TRAMPAS CDP en Impultienda: si la pestaña no está activa, Runtime/screenshot se cuelgan → curl /json/activate/<id> antes. "Eliminar" usa confirm(): sobreescribir window.confirm=()=>true. El textarea de Contenido solo toma cambios con foco + Ctrl+A + Input.insertText (no con setter). El "Contexto para la IA" tiene su propio botón "Guardar contexto".
