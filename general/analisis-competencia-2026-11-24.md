@@ -23,3 +23,7 @@ Biblioteca de Meta (country=ALL, activos) leída con Chrome headless en el puert
 - Carpeta: Escritorio\video para mapas de ingles\PRODUCTO_300_mapas (LEEME.md explica todo). 6 PDF (A1-C2, 300 mapas), 300 MP3 (edge-tts voces Jenny/Guy), contenido en JSON editable y scripts para regenerar.
 - Español neutro sin vos/tú (para AR, MX y ES). Marca provisoria INGLÉS ORDENADO (variable MARCA).
 - Pendiente: hosting de audios + QR por mapa, 4 bonus, revisión humana del contenido, testimonios.
+
+## Videos de anuncios gratis (2026-11-25)
+- Escritorio\video para mapas de ingles\VIDEOS_NUESTROS: 9 anuncios de la 1ra tanda hechos sin gastar (edge-tts voz es-AR + páginas de mapas animadas con PIL/ffmpeg + subtítulos karaoke ASS). Script crear_videos.py.
+- TRAMPA TTS: "del A1" suena "de la 1"; "sin cuotas" suena "cinco cuotas". Verificar siempre con faster-whisper.
