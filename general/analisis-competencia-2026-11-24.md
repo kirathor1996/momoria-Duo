@@ -27,3 +27,5 @@ Biblioteca de Meta (country=ALL, activos) leída con Chrome headless en el puert
 ## Videos de anuncios gratis (2026-11-25)
 - Escritorio\video para mapas de ingles\VIDEOS_NUESTROS: 9 anuncios de la 1ra tanda hechos sin gastar (edge-tts voz es-AR + páginas de mapas animadas con PIL/ffmpeg + subtítulos karaoke ASS). Script crear_videos.py.
 - TRAMPA TTS: "del A1" suena "de la 1"; "sin cuotas" suena "cinco cuotas". Verificar siempre con faster-whisper.
+
+- (2026-11-25) Voz clonada de Agustina GRATIS en la PC: Chatterbox Multilingual (MIT, uso comercial OK; XTTS y F5 son no comerciales). Entorno en C:\Users\AGUSTIN\AppData\Roaming\Duo\herramientas\clonar-voz (.venv Python 3.11, torch 2.6.0+cu124 en la RTX 3060 Ti; hizo falta setuptools<81 para perth). Script clonar_frases.py <muestra.wav> <salida.wav> <frases.txt> [intentos]: genera frase por frase, Whisper elige la toma más fiel. Trampas: con texto largo inventa palabras al final; escribir "a uno"/"ce dos" en vez de A1/C2. Muestra: VIDEOS_NUESTROS\VOZ_AGUSTINA\muestra_agustina.mp3 (la original de Cartas Navideñas se borró; se recuperó de Higgsfield media 3ce8e1be…). Créditos Higgsfield: 0,9.
