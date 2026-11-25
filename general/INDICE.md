@@ -8,3 +8,4 @@ Ruta del proyecto: C:\Users\AGUSTIN\AppData\Roaming\Duo\entornos\general
 - analisis-competencia-2026-11-24.md — veredictos de la 1ra tanda de páginas (inglés en mapas, calistenia, kit psicólogos, plantillas, vegetariana) (2026-11-24)
 - windows-look-mac.md — look estilo Mac en Windows 11 por etapas: backups, estado y trampas (2026-11-25)
 - denuncia-plagio-juego-pasion.md — denuncia a Impultienda por copia de El Juego del Deseo, dónde está el informe y truco de fechas (2026-11-25)
+- marca-maplish.md — la marca de los mapas de inglés es MAPLISH, dónde se aplicó (2026-11-25)
