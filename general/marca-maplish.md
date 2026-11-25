@@ -14,3 +14,4 @@ Detalle técnico en Desktop/video para mapas de ingles/VIDEOS_NUESTROS/LEEME.md.
 - thestoicpath.impultienda.ar tiene DOS píxeles (Configuración > Meta / Tracking): el estoico 2281492459348205 (no tocar, lo usan las campañas estoicas) + el de Agustina 920973110537874 ("Lacocinadealba", portfolio "La cocina de alba" 4377696989216783), cada uno con su token CAPI. Verificado: ambos disparan PageView e InitiateCheckout.
 - Cuenta publicitaria de Agustina 1596834421363646 se llama "La Cocina De Alba".
 - Pendiente: Meta bloquea sumar la página Maplish al portfolio y ver activos del píxel hasta que Agustina verifique identidad (login Microsoft con su hotmail) en el Chrome del puerto 9445.
+- (2026-11-25) Mercado Pago conectado en thestoicpath.impultienda.ar con la cuenta MP de Agustina Luna Suarez (seller 252085739). Modo Multidivisa: argentinos ven ARS y MP primero; resto, Impul Pay. Verificado en el checkout.
