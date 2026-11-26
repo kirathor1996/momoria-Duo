@@ -11,3 +11,4 @@ Ruta del proyecto: C:\Users\AGUSTIN\Desktop\Ebook new juego del deseo (2026-11-2
 - propuesta-seccion-web-app.md — maqueta de la sección nueva para vender la app en la home (dónde va, archivos, pendientes)
 - descuento-lanzamiento10.md — estado de la app en Shopify: versión EE. UU. cargada (2.ª prueba: The Desire Games No Limits, NOLIMITS, 26.90), archivos de ES/DE/EN y cómo se hizo por API
 - plan-lanzamiento-app-sinlimites.md — plan de la app: prueba piloto en AR, después EE. UU./Alemania, precios, código SINLIMITES y regla de no tocar la página
+- app-traducida-en-de.md — app traducida a inglés (The Desire Games) y alemán (Spiel der Begierde): carpetas, script que las genera y pendientes
