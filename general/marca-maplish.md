@@ -33,7 +33,7 @@ Detalle técnico en Desktop/video para mapas de ingles/VIDEOS_NUESTROS/LEEME.md.
 
 ## Campaña de test en Meta (2026-11-26)
 - Cuenta de Agustina act_1596834421363646 (moneda USD, zona AR). Página Maplish para anuncios: ID 1392227443981721 (no figura en promote_pages pero Agustina tiene ADVERTISE).
-- Campaña "MAPLISH | ABO testeo 4 ganchos | AR" (120250347376630491), PAUSADA: 4 conjuntos ABO de USD 8/día (compra, píxel 920973110537874, AR, Advantage+ 18-65), uno por gancho. 4 creativos de video creados (1157493276997362, 3079112029095961, 1139037442347931, 4385108108293411).
+- Campaña "MAPLISH | ABO testeo 4 ganchos | AR" (120250347376630491), PAUSADA: 4 conjuntos ABO de USD 5/día (regla del usuario: 1 conjunto por video, USD 5 c/u) (compra, píxel 920973110537874, AR, Advantage+ 18-65), uno por gancho. 4 creativos de video creados (1157493276997362, 3079112029095961, 1139037442347931, 4385108108293411).
 - BLOQUEO: los anuncios no se pudieron crear porque la cuenta no tiene método de pago válido. Cuando lo carguen: node herramientas/cdp/cdp.mjs 9445 herramientas/cdp/ads2_maplish.js 842E3239 (o pestaña de adsmanager) los crea PAUSADOS.
 - Truco: la API se usa desde la pestaña de Ads Manager con el token EAA del HTML, contra adsmanager-graph.facebook.com con credentials:'include' (graph.facebook.com da "Invalid request"). Videos: input file + DOM.setFileInputFiles + FormData a /advideos.
 - OJO: en la cuenta hay 3 borradores viejos ("Revisar y publicar (3)", ej. "conjunto 1" de ABO testeo): no tocar ese botón sin revisar.
