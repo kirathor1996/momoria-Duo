@@ -1,6 +1,7 @@
-# App en Shopify (tienda k01cpa-0y): estado actual = versión ALEMANA, 2.ª prueba (2026-11-26)
+# App en Shopify (tienda k01cpa-0y): estado actual = versión EE. UU., 2.ª prueba (2026-11-26)
 
 - 2.ª ronda de pruebas (pedido del usuario): EE. UU. borrado; ALEMANIA recargada con todas las correcciones: producto "Spiel der Begierde Grenzenlos" (handle spiel-der-begierde-grenzenlos, vendor Spiel der Begierde, id 15484837888173), portada-alemania-spiel-der-begierde.png, descripción con la marca en alemán, código GRENZENLOS (id 1542221168813), sección DE. Después toca repetir EE. UU.
+- Después se borró Alemania y se recargó EE. UU. con todo corregido: producto "The Desire Games No Limits" (handle the-desire-games-no-limits, vendor The Desire Games, id 15484858138797), portada-eeuu-the-desire-games.png, código NOLIMITS (id 1542225658029), sección EN. Es lo que está cargado ahora.
 - Historial: prueba AR (SINLIMITES, $26.990/$39.990) aprobada y borrada; versión alemana ("Spiel der Begierde Grenzenlos", código GRENZENLOS) cargada y BORRADA el 26-11 para probar la de EE. UU.
 - Ahora cargado (inglés): producto "The Desire Games No Limits" (handle the-desire-games-no-limits, vendor The Desire Games, id 15484815212717), 26.90 / comparación 35.90, digital, solo Tienda online, portada en inglés, descripción en inglés. Código NOLIMITS: 10 % solo ese producto, un uso por cliente, no combinable, se escribe en el checkout.
 - Moneda de la tienda: USD.

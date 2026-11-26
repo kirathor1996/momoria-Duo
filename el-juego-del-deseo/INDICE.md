@@ -9,5 +9,5 @@ Ruta del proyecto: C:\Users\AGUSTIN\Desktop\Ebook new juego del deseo (2026-11-2
 - acceso-app-link-general.md — acceso a la app con un único link para todas las plataformas, dónde está y cómo cambiarlo
 - portada-producto-app.md — portada 1:1 de la app para Shopify: archivo, script y composición
 - propuesta-seccion-web-app.md — maqueta de la sección nueva para vender la app en la home (dónde va, archivos, pendientes)
-- descuento-lanzamiento10.md — estado de la app en Shopify: versión ALEMANA cargada (2.ª prueba: Spiel der Begierde Grenzenlos, GRENZENLOS, 26.90), archivos de ES/DE/EN y cómo se hizo por API
+- descuento-lanzamiento10.md — estado de la app en Shopify: versión EE. UU. cargada (2.ª prueba: The Desire Games No Limits, NOLIMITS, 26.90), archivos de ES/DE/EN y cómo se hizo por API
 - plan-lanzamiento-app-sinlimites.md — plan de la app: prueba piloto en AR, después EE. UU./Alemania, precios, código SINLIMITES y regla de no tocar la página
