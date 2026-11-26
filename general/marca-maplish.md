@@ -30,3 +30,10 @@ Detalle técnico en Desktop/video para mapas de ingles/VIDEOS_NUESTROS/LEEME.md.
 - (2026-11-26) Subdominio cambiado a maplish.impultienda.ar (thestoicpath.impultienda.ar ya no abre nada; dashboard: impultienda.ar/dashboard/maplish). Píxel: SOLO el de Agustina 920973110537874 con token CAPI (se quitó el estoico 2281492459348205). Garantía SACADA de la landing por pedido del usuario (no prometer garantía/devolución). Backup con garantía: LANDING_MAPLISH/landing_final_con_garantia.bak.html.
 - (2026-11-26) Los 4 videos del test (C1-1, C1-2, C2-2, C3-1) están en Desktop/video para mapas de ingles/VIDEOS_NUESTROS/FINALES, con voz real de Agustina y marca MAPLISH.
 - (2026-11-26) La landing final de maplish.impultienda.ar la armó el usuario, con el mismo formato que la de la competencia; no reemplazarla con la mía. Test solo en Argentina (tienda en modo Pesos argentinos, anuncios segmentados solo AR). 4 videos de gancho listos en VIDEOS_NUESTROS/FINALES (C1-1, C1-2, C2-2, C3-1).
+
+## Campaña de test en Meta (2026-11-26)
+- Cuenta de Agustina act_1596834421363646 (moneda USD, zona AR). Página Maplish para anuncios: ID 1392227443981721 (no figura en promote_pages pero Agustina tiene ADVERTISE).
+- Campaña "MAPLISH | ABO testeo 4 ganchos | AR" (120250347376630491), PAUSADA: 4 conjuntos ABO de USD 8/día (compra, píxel 920973110537874, AR, Advantage+ 18-65), uno por gancho. 4 creativos de video creados (1157493276997362, 3079112029095961, 1139037442347931, 4385108108293411).
+- BLOQUEO: los anuncios no se pudieron crear porque la cuenta no tiene método de pago válido. Cuando lo carguen: node herramientas/cdp/cdp.mjs 9445 herramientas/cdp/ads2_maplish.js 842E3239 (o pestaña de adsmanager) los crea PAUSADOS.
+- Truco: la API se usa desde la pestaña de Ads Manager con el token EAA del HTML, contra adsmanager-graph.facebook.com con credentials:'include' (graph.facebook.com da "Invalid request"). Videos: input file + DOM.setFileInputFiles + FormData a /advideos.
+- OJO: en la cuenta hay 3 borradores viejos ("Revisar y publicar (3)", ej. "conjunto 1" de ABO testeo): no tocar ese botón sin revisar.
