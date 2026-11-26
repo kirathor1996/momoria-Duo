@@ -4,3 +4,8 @@
 - Propuesta: agregar UNA sección nueva "Colección Sin Límites" (app) entre Bonos y FAQ, sin tocar las demás. Bloque "Liquid personalizado"/Custom liquid.
 - Archivos (solo maqueta, no se subió nada): Desktop\Ebook new juego del deseo\propuesta web app\ (seccion-nueva.html, PNG celular/compu, página completa).
 - Falta definir precio (quedó $XX.XXX) y el link del producto/colección en Shopify.
+
+## Análisis de la tienda (2026-11-26, 2da vuelta)
+- La home NO tiene menú ni header de navegación; solo 1 colección (frontpage). Compra por formularios /cart/add (variantes Digital 52277098709287 y Física 52277093564711).
+- El carrito lateral ya tiene 4 upsells del tema (Kamasutra, 100 Juegos, De Cero a Mil, Cofre). Lo más limpio: sumar la app como 5º upsell (primero) => cero cambio de estructura. Maqueta: propuesta web app\carrito-con-app.png.
+- Para anuncios: página de producto propia de la app (/products/...), sin tocar la home.
