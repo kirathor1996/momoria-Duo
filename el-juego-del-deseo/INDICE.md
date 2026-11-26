@@ -9,5 +9,5 @@ Ruta del proyecto: C:\Users\AGUSTIN\Desktop\Ebook new juego del deseo (2026-11-2
 - acceso-app-link-general.md — acceso a la app con un único link para todas las plataformas, dónde está y cómo cambiarlo
 - portada-producto-app.md — portada 1:1 de la app para Shopify: archivo, script y composición
 - propuesta-seccion-web-app.md — maqueta de la sección nueva para vender la app en la home (dónde va, archivos, pendientes)
-- descuento-lanzamiento10.md — código 10% de la app: cómo está configurado en Shopify y decisión de que se ponga a mano en el checkout
+- descuento-lanzamiento10.md — app ya cargada en Shopify AR: producto, precios, código SINLIMITES, sección en la home y cómo se hizo por API
 - plan-lanzamiento-app-sinlimites.md — plan de la app: prueba piloto en AR, después EE. UU./Alemania, precios, código SINLIMITES y regla de no tocar la página
