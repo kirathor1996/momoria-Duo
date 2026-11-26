@@ -1,4 +1,4 @@
-# App en Shopify (tienda k01cpa-0y): estado actual = versión EE. UU., 2.ª prueba (2026-11-26)
+# App en Shopify (tienda k01cpa-0y): estado actual = versión ALEMANA "Das Spiel der Lust" (3.ª prueba, 2026-11-26)
 
 - 2.ª ronda de pruebas (pedido del usuario): EE. UU. borrado; ALEMANIA recargada con todas las correcciones: producto "Spiel der Begierde Grenzenlos" (handle spiel-der-begierde-grenzenlos, vendor Spiel der Begierde, id 15484837888173), portada-alemania-spiel-der-begierde.png, descripción con la marca en alemán, código GRENZENLOS (id 1542221168813), sección DE. Después toca repetir EE. UU.
 - Después se borró Alemania y se recargó EE. UU. con todo corregido: producto "The Desire Games No Limits" (handle the-desire-games-no-limits, vendor The Desire Games, id 15484858138797), portada-eeuu-the-desire-games.png, código NOLIMITS (id 1542225658029), sección EN. Es lo que está cargado ahora.
@@ -10,3 +10,5 @@
 - Para recargar la versión alemana: payloads en %TEMP%\cdpjdd q21-q24 (cambiar el título a "Spiel der Begierde Grenzenlos").
 - Cómo se hizo: GraphQL del admin desde la pestaña logueada del Chrome 9445 (fetch a /api/shopify/k01cpa-0y?operation=X con el x-csrf-token del HTML). Scripts en %TEMP%\cdpjdd. Subida de imagen: stagedUploadsCreate + curl --form-string. La tienda tiene contraseña: para ver la home, usar el editor de temas.
 - TRAMPA: themeFilesUpsert rechaza index.json si alguna sección apunta a un archivo que no existe.
+
+- 3.ª prueba (26-11, tarde): EE. UU. borrado (producto 15484858138797 y NOLIMITS). Cargado ALEMANIA con la marca corregida: producto "Das Spiel der Lust Grenzenlos" (handle das-spiel-der-lust-grenzenlos, vendor Das Spiel der Lust, id 15484910469293, variante 68458412671149), portada-alemania-das-spiel-der-lust.png, código GRENZENLOS (id 1542231621805), sección DE + index.json apuntando al producto nuevo. Payloads ql1-ql5 en %TEMP%\cdpjdd.
