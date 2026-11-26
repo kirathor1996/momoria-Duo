@@ -9,3 +9,4 @@ Ruta del proyecto: C:\Users\AGUSTIN\AppData\Roaming\Duo\entornos\general
 - windows-look-mac.md — look estilo Mac en Windows 11 por etapas: backups, estado y trampas (2026-11-25)
 - denuncia-plagio-juego-pasion.md — denuncia a Impultienda por copia de El Juego del Deseo, dónde está el informe y truco de fechas (2026-11-25)
 - marca-maplish.md — marca MAPLISH: dónde se aplicó, página de FB, píxel, Drive de entrega y landing en Impultienda (2026-11-25)
+- telegram-reportes-juego-deseo.md — cómo leer el grupo Negocios con DamicoBULL (bot Rentabilidad CS) y Excel de octubre 2026 (2026-11-25)
