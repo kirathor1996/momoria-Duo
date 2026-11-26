@@ -8,3 +8,4 @@ Ruta del proyecto: C:\Users\AGUSTIN\Desktop\Ebook new juego del deseo (2026-11-2
 - logo-oficial.md — dónde está el logo oficial (Escritorio\Logo JDD) y las versiones vectoriales mejoradas
 - acceso-app-link-general.md — acceso a la app con un único link para todas las plataformas, dónde está y cómo cambiarlo
 - portada-producto-app.md — portada 1:1 de la app para Shopify: archivo, script y composición
+- propuesta-seccion-web-app.md — maqueta de la sección nueva para vender la app en la home (dónde va, archivos, pendientes)
