@@ -11,4 +11,10 @@
 - Código NOLIMITS (DiscountCodeNode 1355254792246), 10 % solo ese producto, un uso por cliente.
 - Sección + popup SOLO en una COPIA del tema: "PRUEBA APP No Limits (no publicar)" id 160360267830, debajo de banner_wbY6AT. El tema publicado (shrine-pro, 156845703222) NO se tocó. Vista previa: thedesiregame.com/?preview_theme_id=160360267830
 - Para pasarlo al tema publicado: `python subir_tema.py thedesiregame <tab> gid://shopify/OnlineStoreTheme/156845703222 qu4.json banner_wbY6AT --live` (scripts en %TEMP%\cdpjdd; guarda backup del index antes).
-- Alemania: la cuenta de Shopify logueada en el Chrome 9446 (la de EE. UU.) NO tiene acceso a dasspielderlust (redirige a otra tienda). Hace falta entrar con la cuenta dueña de la tienda alemana. Para cargarla: crear.py ... de + subir_tema.py con ql5.json.
+
+## Prueba piloto ALEMANIA (2026-11-28) — HECHA
+- El handle real del admin alemán es `na1byx-1n` (no dasspielderlust). Moneda EUR. Mismo Chrome 9446 (el usuario cambió de cuenta en la pestaña).
+- Producto "Das Spiel der Lust Grenzenlos" id 15904498254190, 26,90 € / 35,90 €, publicado en Tienda online (ACTIVO).
+- Código GRENZENLOS (DiscountCodeNode 1876908343662).
+- Sección + popup SOLO en copia del tema "PRUEBA APP Grenzenlos (no publicar)" id 198274842990, debajo de hero_yHpwDY. Tema publicado 195437068654 sin tocar. Vista previa: dasspielderlust.de/?preview_theme_id=198274842990
+- Pasarlo al publicado: subir_tema.py na1byx-1n <tab> gid://shopify/OnlineStoreTheme/195437068654 ql5.json hero_yHpwDY --live
