@@ -12,3 +12,4 @@ Ruta del proyecto: C:\Users\AGUSTIN\Desktop\Ebook new juego del deseo (2026-11-2
 - descuento-lanzamiento10.md — estado de la app en Shopify: versión ALEMANA cargada (3.ª prueba: Das Spiel der Lust Grenzenlos, GRENZENLOS, 26.90), archivos de ES/DE/EN y cómo se hizo por API
 - plan-lanzamiento-app-sinlimites.md — plan de la app: prueba piloto en AR, después EE. UU./Alemania, precios, código SINLIMITES y regla de no tocar la página
 - app-traducida-en-de.md — app traducida a inglés (The Desire Games) y alemán (Das Spiel der Lust): carpetas, script que las genera y pendientes
+- tiendas-eeuu-alemania.md — tiendas Shopify reales (thedesiregame / dasspielderlust), Chrome 9446 para trabajar en ellas y precios 26,90
