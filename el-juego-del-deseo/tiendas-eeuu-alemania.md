@@ -18,3 +18,5 @@
 - Código GRENZENLOS (DiscountCodeNode 1876908343662).
 - Sección + popup SOLO en copia del tema "PRUEBA APP Grenzenlos (no publicar)" id 198274842990, debajo de hero_yHpwDY. Tema publicado 195437068654 sin tocar. Vista previa: dasspielderlust.de/?preview_theme_id=198274842990
 - Pasarlo al publicado: subir_tema.py na1byx-1n <tab> gid://shopify/OnlineStoreTheme/195437068654 ql5.json hero_yHpwDY --live
+- TRAMPA (2026-11-28): las tiendas tienen mercados con LISTAS DE PRECIOS FIJOS. Un producto nuevo no muestra el precio tachado en esos mercados hasta agregarle precio fijo (priceListFixedPricesAdd). DE: hecho en "Alemania y Austria" (26,90/35,90 EUR) y "Suiza" (27,90/36,90 CHF). EE. UU.: el mercado USD no tiene lista (anda bien); Inglaterra, Canadá, Australia, Nueva Zelanda e Irlanda sí tienen → falta definir precios ahí.
+- En la ficha de producto el tema (Shrine) muestra "(xxxx Reviews)" y una línea de envío "Ordered/Order Ready/Delivered": pasa en TODOS los productos de la tienda, no es nuestro.
