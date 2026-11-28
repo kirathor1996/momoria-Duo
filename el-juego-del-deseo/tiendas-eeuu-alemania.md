@@ -20,3 +20,8 @@
 - Pasarlo al publicado: subir_tema.py na1byx-1n <tab> gid://shopify/OnlineStoreTheme/195437068654 ql5.json hero_yHpwDY --live
 - TRAMPA (2026-11-28): las tiendas tienen mercados con LISTAS DE PRECIOS FIJOS. Un producto nuevo no muestra el precio tachado en esos mercados hasta agregarle precio fijo (priceListFixedPricesAdd). DE: hecho en "Alemania y Austria" (26,90/35,90 EUR) y "Suiza" (27,90/36,90 CHF). EE. UU.: el mercado USD no tiene lista (anda bien); Inglaterra, Canadá, Australia, Nueva Zelanda e Irlanda sí tienen → falta definir precios ahí.
 - En la ficha de producto el tema (Shrine) muestra "(xxxx Reviews)" y una línea de envío "Ordered/Order Ready/Delivered": pasa en TODOS los productos de la tienda, no es nuestro.
+
+## PUBLICADO EN LAS HOMES REALES (2026-11-28, OK del usuario)
+- Sección jdd-nueva-coleccion + popup subidos al tema PUBLICADO de las dos tiendas: DE (195437068654, debajo de hero_yHpwDY) y EE. UU. (156845703222, debajo de banner_wbY6AT). Verificado en dasspielderlust.de y thedesiregame.com.
+- Respaldos del index.json previo: "propuesta web app\backup-index-ALEMANIA-real-antes-app-2026-11-28.json" y "...EEUU-real-antes-app-2026-11-28.json". Para deshacer: subir ese archivo como templates/index.json (themeFilesUpsert).
+- Las copias "PRUEBA APP ... (no publicar)" (DE 198274842990, US 160360267830) siguen existiendo; se pueden borrar.
